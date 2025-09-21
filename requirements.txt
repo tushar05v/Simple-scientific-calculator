@@ -1,0 +1,2 @@
+# Requirements for Simple Scientific Calculator
+python>=3.11
