@@ -1,7 +1,4 @@
-# Simple-scientific-calculator
-![logo](https://github.com/tushar05v/tushar05v/blob/main/Banner.png)
-
-<h1 align="center">🧮 Scientific Calculator</h1>
+<h1 align="center">🧮Simple Scientific Calculator</h1>
 <h3 align="center">A simple but cool scientific calculator built with Python Tkinter</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif">
