@@ -3,9 +3,18 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=tushar05v&label=Repo%20views&color=0e75b6&style=flat" alt="views" /> 
+<p align="left">
+  <a href="https://github.com/tushar05v/Simple-scientific-calculator/stargazers">
+    <img src="https://img.shields.io/github/stars/tushar05v/Simple-scientific-calculator?style=social" alt="GitHub stars"/>
+  </a>
+  <a href="https://github.com/tushar05v/Simple-scientific-calculator/network/members">
+    <img src="https://img.shields.io/github/forks/tushar05v/Simple-scientific-calculator?style=social" alt="GitHub forks"/>
+  </a>
+  <a href="https://github.com/tushar05v/Simple-scientific-calculator/issues">
+    <img src="https://img.shields.io/github/issues/tushar05v/Simple-scientific-calculator" alt="GitHub issues"/>
+  </a>
 </p>
+
 
 ---
 
