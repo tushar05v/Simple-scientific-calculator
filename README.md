@@ -45,4 +45,12 @@ scientific-calculator/
 └── img/             # Screenshots and images
     ├── std.png
     └── sci.png
+```
+### 📸 Screenshots
+
+**Standard Mode**  
+![Standard Mode](img/std.png)  
+
+**Scientific Mode**  
+![Scientific Mode](img/sci.png)
 
