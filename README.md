@@ -57,7 +57,7 @@ scientific-calculator/
     ├── std.png
     └── sci.png
 ```
-
+---
 ### 📸 Screenshots
 
 <table>
@@ -72,6 +72,7 @@ scientific-calculator/
     </td>
   </tr>
 </table>
+---
 
 ### ▶️ How to Run
 ```bash
